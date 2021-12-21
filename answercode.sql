@@ -1,4 +1,4 @@
-								/* AN INTERSHIP TASK */
+								/* AN INTERNSHIP TASK */
 								
 						/* QUESTION 1 */
 			/* Create a db in SQL about the Amazon dataset */
